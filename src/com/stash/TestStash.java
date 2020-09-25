@@ -8,7 +8,8 @@ public class TestStash {
 		System.out.println("Hello World");
 		
 		System.out.println("git stash pop");
+		
+		System.out.println();
 	}
 
 }
-clear
